@@ -733,6 +733,5 @@ color: var(--skin-color);
     }
 }
 #fontss{
-    font-family: 'Roboto', sans-serif;
-
+    font-family: 'Courier New', Courier, monospace;
 }
