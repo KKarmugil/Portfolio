@@ -29,7 +29,6 @@ body
     outline: none;
     text-decoration: none;
     box-sizing: border-box;
-
 }
 ::before::after
 {
@@ -732,4 +731,8 @@ color: var(--skin-color);
         flex: 0 0 100%;
         max-width: 100%;
     }
+}
+#fontss{
+    font-family: 'Roboto', sans-serif;
+
 }
