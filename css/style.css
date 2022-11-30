@@ -735,3 +735,7 @@ color: var(--skin-color);
 #fontss{
     font-family: 'Courier New', Courier, monospace;
 }
+
+body {
+  font-family: courier, serif;
+}
